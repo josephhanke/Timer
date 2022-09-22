@@ -16,7 +16,7 @@
         Select your birthday:<br />
         <br />
         <asp:Calendar ID="bdayCalendar" runat="server" VisibleDate="2002-01-31"></asp:Calendar>
-        <asp:Button ID="btn1" runat="server" OnClick="btn1_Click" Text="Button" />
+        <asp:Button ID="btn1" runat="server" OnClick="btn1_Click" Text="Click Here" />
         <br />
         <asp:Label ID="lblResult" runat="server" Text="100"></asp:Label>
         <br />
